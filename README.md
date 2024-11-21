@@ -6,4 +6,9 @@
 
 ![image](https://github.com/user-attachments/assets/397d9161-ab0d-4d97-bd72-83d483a0f138)
 
+<h2>1. 프로젝트 개요</h2>
+<b>주제</b>
+<br>
+이미지 색상 기반 맞춤형 의류 추천 이커머스
+
 
