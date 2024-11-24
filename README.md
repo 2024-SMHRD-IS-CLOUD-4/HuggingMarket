@@ -108,6 +108,39 @@
 -풋터
 ![image](https://github.com/user-attachments/assets/a9121e5a-c7b1-4099-8374-253c55b39168)
 
+<h4>회원가입,수정 및 로그인</h4>
+<br>
+회원가입
+![image](https://github.com/user-attachments/assets/be942222-ba97-4feb-8a26-ebb91694d11e)
+
+회원가입 성공
+![image](https://github.com/user-attachments/assets/0e34326c-935a-440c-94ae-430a28ff852f)
+
+로그인
+![image](https://github.com/user-attachments/assets/ae33cf06-5c2f-43f9-a755-03128b404d9f)
+
+회원 정보 수정
+![image](https://github.com/user-attachments/assets/39cbe1ba-8d6e-4f6a-ade9-63297e9e8ce3)
+
+<br>
+<h4>상품 검색 결과</h4>
+![image](https://github.com/user-attachments/assets/c0badc9d-9b66-4ed8-a813-e582fea4a440)
+
+<h4>제품 상세 정보 페이지</h4>
+![image](https://github.com/user-attachments/assets/e09e16ac-8cca-48c0-8449-ae0e391cac5c)
+![image](https://github.com/user-attachments/assets/58612bf4-e73d-4f27-a5e6-4e6c91d68785)
+![image](https://github.com/user-attachments/assets/3923ed30-2323-4443-961a-732fcd316947)
+![image](https://github.com/user-attachments/assets/74b39acd-de5d-4c46-ab24-610dcd3f9c25)
+
+<br>
+<h4>결제 페이지</h4>
+![image](https://github.com/user-attachments/assets/08bbbe4a-d920-40e8-b78e-ae6dd561c9b1)
+
+<h4>장바구니</h4>
+![image](https://github.com/user-attachments/assets/64c39c1c-67c7-413d-929e-134d9ec613ef)
+
+<h4>찜목록</h4>
+![image](https://github.com/user-attachments/assets/ba2f8062-2b3c-4119-843f-d4739034edd6)
 
 
 
