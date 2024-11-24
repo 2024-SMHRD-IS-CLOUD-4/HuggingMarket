@@ -95,12 +95,12 @@
 ![image](https://github.com/user-attachments/assets/684b191b-fab3-4efd-a3ef-224b977ef05e)
 
 <h2>8. 화면 구성</h2>
-<h4>메인화면</h4>
+<h4>1. 메인화면</h4>
 
 ![image](https://github.com/user-attachments/assets/8fd1526c-4a55-4409-84f9-cea1e73843a7)
 ![image](https://github.com/user-attachments/assets/eb16476e-0a82-4ed2-bc09-57ab71e3c279)
 
-<h4>헤더,풋터</h4>
+<h4>2. 헤더,풋터</h4>
 
 -헤더
 ![image](https://github.com/user-attachments/assets/398b436f-f863-4521-a662-0e19c1edaa6b)
@@ -108,9 +108,10 @@
 -풋터
 ![image](https://github.com/user-attachments/assets/a9121e5a-c7b1-4099-8374-253c55b39168)
 
-<h4>회원가입,수정 및 로그인</h4>
+<h4>3. 회원가입,수정 및 로그인</h4>
 <br>
 회원가입
+
 ![image](https://github.com/user-attachments/assets/be942222-ba97-4feb-8a26-ebb91694d11e)
 
 회원가입 성공
@@ -123,27 +124,44 @@
 ![image](https://github.com/user-attachments/assets/39cbe1ba-8d6e-4f6a-ade9-63297e9e8ce3)
 
 <br>
-<h4>상품 검색 결과</h4>
+<h4>4. 상품 검색 결과</h4>
+
 ![image](https://github.com/user-attachments/assets/c0badc9d-9b66-4ed8-a813-e582fea4a440)
 
-<h4>제품 상세 정보 페이지</h4>
+<h4>5. 제품 상세 정보 페이지</h4>
+
 ![image](https://github.com/user-attachments/assets/e09e16ac-8cca-48c0-8449-ae0e391cac5c)
 ![image](https://github.com/user-attachments/assets/58612bf4-e73d-4f27-a5e6-4e6c91d68785)
 ![image](https://github.com/user-attachments/assets/3923ed30-2323-4443-961a-732fcd316947)
 ![image](https://github.com/user-attachments/assets/74b39acd-de5d-4c46-ab24-610dcd3f9c25)
 
 <br>
-<h4>결제 페이지</h4>
+<h4>6. 결제 페이지</h4>
+
 ![image](https://github.com/user-attachments/assets/08bbbe4a-d920-40e8-b78e-ae6dd561c9b1)
 
-<h4>장바구니</h4>
+<h4>7. 장바구니</h4>
+
 ![image](https://github.com/user-attachments/assets/64c39c1c-67c7-413d-929e-134d9ec613ef)
 
-<h4>찜목록</h4>
+<h4>8. 찜목록</h4>
+
 ![image](https://github.com/user-attachments/assets/ba2f8062-2b3c-4119-843f-d4739034edd6)
 
+<h2>9. 트러블 슈팅</h2>
+<h4>Problem 1</h4>
+
+![image](https://github.com/user-attachments/assets/2f08d531-476b-433a-9d2a-56bfa5e84c12)
+<br>
+해결책 : 전부 cs_Oracle로 동기화 시킴
+
+<h2>10. 향후 발전 과제</h2>
+
+![image](https://github.com/user-attachments/assets/d44ee8e2-99ec-42da-9e03-be9f2e7fa263)
 
 
+<h2>11. 팀원 구성 및 역할</h2>
 
+![image](https://github.com/user-attachments/assets/22a6d576-5748-4553-8791-2ba7aa3383f6)
 
 
